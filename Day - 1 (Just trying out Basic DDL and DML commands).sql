@@ -57,7 +57,7 @@ SELECT * FROM student_course_view;
 SHOW INDEXES FROM students;
 SELECT * FROM seq_demo;
 
-Try -->
-ALTER TABLE <table_name> ADD <column_name> <datatype>;
-ALTER TABLE <table_name> DROP COLUMN <column_name>;
-ALTER TABLE <table_name> MODIFY COLUMN <column_name> <datatype>;
+-- Try -->
+-- ALTER TABLE <table_name> ADD <column_name> <datatype>;
+-- ALTER TABLE <table_name> DROP COLUMN <column_name>;
+-- ALTER TABLE <table_name> MODIFY COLUMN <column_name> <datatype>;

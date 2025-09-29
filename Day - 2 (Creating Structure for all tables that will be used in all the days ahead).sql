@@ -1,6 +1,6 @@
 -- Create Database aviWorks first, and Use it.
 
-CREATE DATABASE aviWorks;
+CREATE DATABASE IF NOT EXISTS aviWorks;
 USE aviWorks;
 
 -- Create DEPARTMENT table 
